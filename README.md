@@ -13,4 +13,7 @@ Poisson folyamat generálása, ábrázolása, statisztikai jellemzők
 
 Close* megváltozásának logaritmusa (részvényes faszság)
 
+Hengspi github:
+https://github.com/HMark0276/DCHCAS_EF/blob/main/dchcas.txt
+
 # 2. Mappa
