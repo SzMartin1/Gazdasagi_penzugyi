@@ -10,6 +10,7 @@ Brown folyamat generálása, ábrázolása, statisztikai jellemzők
 Poisson folyamat generálása, ábrázolása, statisztikai jellemzők
 
 4-5.
+
 Close* megváltozásának logaritmusa (részvényes faszság)
 
 # 2. Mappa
