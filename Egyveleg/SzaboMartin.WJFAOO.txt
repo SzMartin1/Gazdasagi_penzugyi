@@ -169,7 +169,7 @@ Mode(stabilis)
 # https://finance.yahoo.com/quote/nflx/history?p=nflx
 
 details<-read.csv("D:/NFLX.csv")
-zaro <- details#Close
+zaro <- details$Close
 zaro
 logreturn=c()
 for(i in 1:length(zaro)-1){
